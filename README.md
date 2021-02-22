@@ -12,6 +12,9 @@ The visualizations were created in Shiny app (R) and will require rstudio to run
 R 
 Rstudio
 
+## Data files for customer review sentiment analysis
+PLease click on the following google drive link to download the data. This link consists data for running the customer review sentiment analysis notebook.
+
 ## Running the program
 Open the airbnb visualization folder and open the shiny app.R script in rstudio and run the script with necessary csv and json files in the directory.
 
